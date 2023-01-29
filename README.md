@@ -8,4 +8,4 @@ The first homework I have done throughout my Bootstrap education journey at [pat
 
 - Used Bootstrap version is 5.1.3
 
-[Click](https://asaribatur.github.io/Front-end-101_first_bootstrap_homework/) to see live website.
+[Click](https://asaribatur.github.io/book-club/) to see live website.
